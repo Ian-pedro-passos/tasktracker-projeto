@@ -38,6 +38,10 @@ O TaskTracker oferece um menu contínuo no terminal, que só encerra quando o us
 Categoria é opcional; se ficar em branco, assume `Geral`. Nesta fase as tarefas ficam em memória
 enquanto o programa está aberto (a gravação em arquivo está prevista para a Fase 3).
 
+## Vídeo de apresentação
+
+Demonstração do repositório e da aplicação em execução: https://youtu.be/IDK_kGNmDz0
+
 ## Tecnologias utilizadas
 
 - Python 3 (somente biblioteca padrão)
